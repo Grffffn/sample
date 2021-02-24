@@ -1,1 +1,1 @@
-Trialing Githun extension on Atom
+Trialing Github extension on Atom
